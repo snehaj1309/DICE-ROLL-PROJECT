@@ -1,0 +1,9 @@
+#dice_roll_project
+
+import random
+import time
+
+choice=int(input("enter 1"))
+for i in range 0,2:
+print(choice)
+print('abcjhsbc')
